@@ -24,6 +24,8 @@ The open-door visual metaphorically represents career opportunity and exploratio
 ---
 
 ### 2️⃣ Introduction  
+![image](https://github.com/user-attachments/assets/64ad5af5-3f13-43fb-8147-38a9b9f68289)
+
 This page provides an overview of the dashboard’s purpose and structure.  
 It introduces the two key components: the Visa-Sponsored Job Search Dashboard and the Company Insights Dashboard.  
 It highlights how users can interact with the dashboards to access job trends and employer-specific data.
@@ -31,6 +33,8 @@ It highlights how users can interact with the dashboards to access job trends an
 ---
 
 ### 3️⃣ Visa-Sponsored Job Search Dashboard  
+![image](https://github.com/user-attachments/assets/e069eb7a-2c49-4e84-8003-5bdd6506f0cb)
+
 This dashboard presents a market-level view of visa-sponsored job data using intuitive visuals and KPIs.
 
 **Visuals Explained:**
@@ -46,6 +50,8 @@ This page is essential for spotting where, when, and in what fields opportunitie
 ---
 
 ### 4️⃣ Company Insights Dashboard  
+![image](https://github.com/user-attachments/assets/c9b79d09-996f-43ce-ad39-a2af82dcfda3)
+
 This page provides detailed, company-specific insights to help users compare employers and understand their hiring patterns.
 
 **Visuals Explained:**
@@ -62,6 +68,8 @@ This page enables users to do deep dives on individual employers and tailor thei
 ---
 
 ### 5️⃣ Conclusion  
+![image](https://github.com/user-attachments/assets/db2fc817-c90c-4b6a-987b-4baedcd67d26)
+
 A summary page that ties together the key insights from both dashboards.  
 It reinforces how users can combine market-level trends with company-level data for a smart, focused job hunt.  
 This page acts as a final recommendation to leverage data analytics in making confident, informed career decisions.
@@ -78,10 +86,6 @@ By combining high-level trends with deep company insights, this Power BI dashboa
 
 ---
 
-## 📊 Dashboard Preview  
-[![Dashboard Screenshot](images/dashboard-preview.png)](https://app.powerbi.com/view?r=eyJrIjoiEXAMPLE123...)
-
----
 
 ## 📄 License  
 MIT License. See [LICENSE](LICENSE) for details.
