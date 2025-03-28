@@ -15,6 +15,8 @@ It consists of two main sections: a **Job Search Dashboard** offering a high-lev
 ## 📁 Dashboard Pages
 
 ### 1️⃣ Cover Page  
+![image](https://github.com/user-attachments/assets/e6b2dd4d-2cff-423b-ad75-6a12977b9c2a)
+
 An interactive introduction screen featuring a clean layout and tab-style navigation for seamless movement between dashboard sections.  
 It sets the stage for the dashboard experience with clear headings and visual design.  
 The open-door visual metaphorically represents career opportunity and exploration.
