@@ -104,6 +104,8 @@ This page is perfect for quick, informed discovery — especially for users new 
 ---
 
 ### 7️⃣ Conclusion  
+![image](https://github.com/user-attachments/assets/79783e70-5440-421f-b2c9-0d3d93092c66)
+
 A summary page that ties together insights from all dashboards.  
 It reinforces how users can combine market-level trends with company- and role-level data for a smarter, more strategic job hunt.
 
