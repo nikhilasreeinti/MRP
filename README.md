@@ -38,7 +38,7 @@ It introduces the key components and highlights how users can interact with the 
 ---
 
 ### 3️⃣ Visa-Sponsored Job Search Dashboard  
-![Visa Job Search](https://github.com/user-attachments/assets/f5e77016-aa79-41be-9a17-7b787d219164)
+![image](https://github.com/user-attachments/assets/9a12e8d9-247d-4f5e-9453-b540892d1d7b)
 
 This dashboard presents a market-level view of visa-sponsored job data using intuitive visuals and KPIs.
 
@@ -55,7 +55,7 @@ This dashboard helps users understand where and what types of jobs are available
 ---
 
 ### 4️⃣ Job Role Deep Dive Dashboard  
-![Job Role Dashboard](https://github.com/user-attachments/assets/ddf3194c-7b98-41bd-af8f-1dd6d6058527)
+![image](https://github.com/user-attachments/assets/76228ef8-b592-4039-97db-6ba2031650ae)
 
 This page lets users explore a selected job title in detail, such as ML Engineer.
 
@@ -71,7 +71,7 @@ This dashboard helps users focus their efforts on a specific role, understand wh
 ---
 
 ### 5️⃣ Company Insights Dashboard  
-![Company Insights](https://github.com/user-attachments/assets/5eea150d-03a9-4a1d-b5da-fe30f8d38172)
+![image](https://github.com/user-attachments/assets/cf1bfec0-5df8-4df6-9c14-657b845a4036)
 
 This page provides detailed, company-specific insights to compare employers and understand their hiring patterns.
 
@@ -87,7 +87,7 @@ This view enables users to strategically prioritize employers based on reputatio
 ---
 
 ### 6️⃣ Top 10 Job Explorer Dashboard  
-![Top 10 Job Explorer](https://github.com/user-attachments/assets/1f5c8bee-5805-4472-a31c-b71ea6377a79)
+![image](https://github.com/user-attachments/assets/fe932ebe-e11b-4adb-9051-dd882d0d2d44)
 
 This dashboard is designed for users who may not know where to start — it automatically surfaces the top 10 job opportunities based on roles, companies, salaries, and industries.
 
