@@ -5,16 +5,46 @@ A Power BI dashboard designed to help international students explore and analyze
 
 ---
 
-## 📝 Project Description
+## 📜 Project Charter
 
-This project focuses on optimizing the job search experience for international students seeking visa-sponsored employment. By consolidating key data points such as job postings, company ratings, job types, salaries, and geographic trends, the dashboard enables users to make strategic, data-backed decisions in their job search journey.
+### 🎯 Project Title:
+**Visa-Sponsored Job Opportunities Dashboard**
 
-It consists of five major sections:
-- A **Job Search Dashboard** offering a high-level market overview  
-- A **Job Role Deep Dive Dashboard** for analyzing a specific job title  
-- A **Company Insights Dashboard** for drilling into employer trends  
-- A **Top 10 Job Explorer Dashboard** for discovering the most promising paths  
-- A **Conclusion Page** to summarize and guide next steps  
+### 🧭 Problem Statement:
+International students face major hurdles in securing employment due to visa restrictions, cultural barriers, and a fragmented job search experience. There is no centralized, data-driven platform that consolidates sponsorship availability, hiring trends, and role-specific information in a clear and accessible format. This leads to wasted time, anxiety, and missed opportunities.
+
+### 👥 Stakeholders:
+- **Primary Decision Maker**: International job seekers requiring visa sponsorship.
+- **End Users**: Students, recent graduates, and educational institutions supporting career services.
+
+### 🎯 Project Goal:
+To create a streamlined, interactive dashboard that simplifies the job search process for visa-sponsored roles. This tool empowers users to identify top employers, in-demand roles, and high-paying sectors—enabling informed, confident, and strategic career decisions.
+
+### 💡 Objectives:
+- Centralize visa-sponsored job postings from various data sources.
+- Provide real-time insights into job availability, salary, and hiring trends.
+- Allow comparison of employers based on reputation, job types, and compensation.
+- Enable filtering by role, industry, location, and company rating.
+
+### 🧱 Data Model Summary:
+The system is built on three core entities:
+- **Company**: Employer metadata including name, rating, description, and review metrics.
+- **JobPosting**: Contains role-specific info like title, type, location, and status.
+- **JobDetails**: Adds deep-dive elements such as salary, description, and apply links.
+
+These are structured to support one-to-many relationships, enabling comprehensive drill-downs by company or job.
+
+### 🛠️ Tools & Technologies:
+- Power BI for visualization and dashboard creation.
+- CSV/Excel datasets representing job postings and company data.
+- Data transformation in Power Query.
+- ER modeling to guide schema and interactivity.
+
+### ✅ Success Criteria:
+- The dashboard provides intuitive navigation and filtering.
+- Users can compare employers and roles easily.
+- Real-time trends are accessible and accurate.
+- Students report increased confidence and efficiency in their job search.
 
 ---
 
